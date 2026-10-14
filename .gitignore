@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
+*.local.json
+runs/
+.runtime/
+.attempts/
+*.blend
+*.blend1
+*.glb
+*.usda
+*.zip
+state/
+logs/

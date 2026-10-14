@@ -1,0 +1,6 @@
+{
+  "asset": {"height_m": 0.09, "mass_kg": 0.3, "require_cavity": true,
+    "static_friction": 0.6, "dynamic_friction": 0.5, "restitution": 0.05},
+  "blender": {"gpu_backend": "AUTO", "target_faces": 10000, "resolution": 2048},
+  "isaac": {"test": "cup-comparison", "ball_angular_damping": 300}
+}

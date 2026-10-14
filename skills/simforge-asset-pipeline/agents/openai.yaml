@@ -1,0 +1,6 @@
+interface:
+  display_name: "SimForge 仿真资产"
+  short_description: "从自然语言或参考图生成 3D 仿真资产，支持四阶段视觉确认和端到端运行"
+  default_prompt: "用 $simforge-asset-pipeline 生成一个仿真杯子，按参考图、3D、Blender 资产和 Isaac Sim 效果分阶段确认。"
+policy:
+  allow_implicit_invocation: true
